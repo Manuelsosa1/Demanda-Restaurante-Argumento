@@ -1,2 +1,2 @@
-# Estudio de Demanda de Restaurante Argumento Córdoba
-Restaurante ubicado en Córdoba Argentina el cual no tiene ninguna especialidad de platos sino que al contrario, tiene un menú muy amplio. Para Realizar promociones y entender los comportamientos de sus clientes me abrieron sus datos para que sean analizados y se extraigan insights. 
+# Estudio de Demanda de Restaurante en  Córdoba
+Restaurante ubicado en Córdoba Argentina el cual no tiene ninguna especialidad de platos sino que al contrario, tiene un menú muy amplio. Para Realizar promociones y entender los comportamientos de sus clientes me abrieron sus datos para que sean analizados y se extraigan insights. El estudio central es realizar una matriz de similitud entre los platos calculando al similitud coseno de los mismos. Esta matriz representa que tanto se pide un plato con otro en el mismo ticket, brindandonos este información valiosa para realizar promociones.
